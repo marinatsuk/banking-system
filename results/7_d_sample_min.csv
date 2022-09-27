@@ -1,0 +1,11 @@
+,0
+loan_amount,300.0
+loan_days,3.0
+education_id,1.0
+has_immovables,0.0
+has_movables,0.0
+monthly_income,15.0
+income_frequency_id,1.0
+monthly_expenses,100.0
+product_dpr,0.0
+product_interest_min,30.0
